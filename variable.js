@@ -8,4 +8,6 @@
   javascripting verify variables.js
 */
 
-
+var example;
+example = 'some string'
+console.log(example)
